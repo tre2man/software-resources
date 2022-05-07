@@ -23,6 +23,7 @@
 ## [이노베이션 아카데미](https://innovationacademy.kr) 개발자들의 블로그
 
 * [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
+* [팔만코딩경](https://80000coding.oopy.io)
 
 | 블로그 URL                           | 블로그 주인 github repository - 알파벳순        |
 | ------------------------------------ | :---------------------------------------------- |
@@ -36,18 +37,23 @@
 | https://gilee.kr                     | [gilee](https://github.com/weg901127)           |
 | https://velog.io/@mkitigy/           | [gim](https://github.com/GwangYeol-Im)          |
 | https://gwpaeng.tistory.com/         | [gpaeng](https://gwpaeng.tistory.com/)          |
+| https://caputdraconis.tistory.com/   | [guntkim](https://caputdraconis.tistory.com/)   |
+| https://velog.io/@hekang             | [hekang](https://github.com/hekang42)           |
 | https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             |
 | https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             |
+| https://codinggorani.tistory.com     | [hnoh](https://codinggorani.tistory.com)        |
 | https://egas.tistory.com/            | [holee](https://github.com/hochan222)           |
 | https://blog.naver.com/hyeonjun7     | [hyeonpar](https://github.com/c2lv)             |
 | https://hyeonski.tistory.com/        | [hyeonski](https://github.com/hyeonski)         |
 | https://hyeyoo.com                   | [hygoni](https://github.com/hygoni)             |
 | https://ceuity.tistory.com/          | [hyulee](https://github.com/ceuity)             |
+| https://velog.io/@therealjamesjung   | [jaekjung](https://github.com/therealjamesjung) |
 | https://jaeseokim.dev/               | [jaeskim](https://github.com/jaeSeoKim)         |
 | https://ai-hong.tistory.com          | [jeohong](https://ai-hong.tistory.com)          |
 | https://forhjy.medium.com/           | [jhur](https://github.com/jiyoon1156)           |
-| https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
 | https://earthkingman.tistory.com/    | [ji-park](https://github.com/earthkingman)      |
+| https://bigpel66.oopy.io/            | [jseo](https://github.com/bigpel66)             |
+| https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
 | https://philgineer.com/              | [junyun](https://github.com/philgineer)         |
 | https://kunhee.kim/                  | [kukim](https://github.com/ku-kim)              |
 | https://coding-lks.tistory.com/      | [kwlee](https://github.com/Lks9172)             |
@@ -63,12 +69,14 @@
 | https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          |
 | https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         |
 | https://velog.io/@jaranda            | [sku](https://github.com/ksks723)               |
+| https://velog.io/@seungju0000        | [slee2](https://github.com/Lee-seungju)         |
 | https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740)           |
 | https://blog.naver.com/yoagi110      | [sujilee](https://github.com/yoagi110)          |
 | https://blog.naver.com/jsg2804       | [sunhkim](https://github.com/mocha-kim)         |
 | https://brunch.co.kr/@swimjiy        | [swimjiy](https://github.com/swimjiy)           |
 | https://wonillism.tistory.com        | [wopark](https://github.com/WONILLISM)          |
 | https://velog.io/@yujo               | [YUJO42](https://github.com/YUJO42)             |
+| https://eeeuns.github.io/            | [yunselee](https://github.com/EeeUnS)           |
 | https://yunslee-42seoul.tistory.com/ | [yunslee](https://github.com/exgs)              |
 | https://lulu-lala0923.tistory.com/   |                                                 |
 | https://epicarts.tistory.com/        | [ychoi](https://github.com/epicarts)            |

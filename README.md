@@ -14,6 +14,10 @@
 * 팟캐스트 유튜브 : 너무 많아요.
   * [팟방-개발자(검색)](http://www.podbbang.com/search?keyword=개발자)
   * [유튜브-개발자(검색)](https://www.youtube.com/results?search_query=개발자)
+* 참고용 개발자 모집공고 사례
+  * [노션기반 국내 HR 페이지 사례](https://www.notion.so/haloswpark/HR-a3065577c737488396045323bb2c3bec)
+* 개발자를 위한 '무료' 도구
+  * [Free for developers](https://free-for.dev)
   
 ### 이 사이트 내용 수정
 

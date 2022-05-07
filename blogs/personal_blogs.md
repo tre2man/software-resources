@@ -103,6 +103,7 @@
 | http://minieetea.com/                           |                                                              |
 | http://minsone.github.io                        |                                                              |
 | https://newstars77.blog.me/                     |                                                              |
+| https://noninertialframe.com/blog               | #ChomeExtension, ...                                         |
 | https://nsh83.tistory.com/                      |                                                              |
 | https://paiai.tistory.com/category              | #Python, #Java, #빅데이터, #알고리즘, #PHP,  #DB, #머신러닝, #IDE, #AWS,  #Node.js, #Kaggle, #Tensorflow |
 | https://popit.kr                                |                                                              |                                     
@@ -115,6 +116,7 @@
 | https://umanking.github.io/                     |                                                              |
 | https://velog.io/@bathingape                    |                                                              |
 | https://velog.io/@conatuseus                    |                                                              |
+| https://velog.io/@dongyi                        |                                                              |
 | https://velog.io/@max9106                       |                                                              |
 | https://velog.io/@rjs1197                       |                                                              |
 | https://velog.io/@skyepodium                    |                                                              |

@@ -3,7 +3,6 @@
 ## 기업 블로그 관련 참고글
 
 * [포스트모템: 스타트업 기술 블로그 모음 by ChangJoo Park님](https://medium.com/@changjoopark/스타트업-기술-블로그-모음을-만들며-da1ba22627f1)
-* [--> 그 결과](https://changjoo-park.github.io/pages/1/?fbclid=IwAR2uymeiEunHUDhW7wl1scul5sXhYT_vZRs7N2emUGPTth1bMaXr7w1xVQ0)
 
 ## 개인들의 기술 블로그
 
@@ -24,10 +23,13 @@
 * [드롭박스](https://blogs.dropbox.com/tech/)
 * [라인](https://engineering.linecorp.com/ko/blog/)
 * [레진](https://tech.lezhin.com/)
+* [리멤버-드라마앤컴퍼니](https://blog.dramancompany.com)
 * [마이크로소프트](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+* [마켓컬리](https://helloworld.kurly.com)
 * [뱅크샐러드](https://blog.banksalad.com/)
 * [비트윈 VCNC](http://engineering.vcnc.co.kr/)
 * [사람인](https://saramin.github.io/)
+* [사이냅소프트](https://www.synapsoft.co.kr/dev-story/)
 * [스캐터랩 핑퐁팀](https://blog.pingpong.us/)
 * [스포카](https://spoqa.github.io/)
 * [아마존](https://developer.amazon.com/blogs)
@@ -43,6 +45,7 @@
 * [인스타그램](https://instagram-engineering.com/)
 * [지앤선 출판사](https://monthly-jiandson.tistory.com/)
 * [카카오](https://tech.kakao.com/)
+* [카카오 엔터프라이즈](https://tech.kakaoenterprise.com/)
 * [코발트](https://blog.cobalt.run/)
 * [쿠팡](https://medium.com/coupang-tech)
 * [토스](https://blog.toss.im/)
@@ -59,3 +62,6 @@
 * [NHN](https://meetup.toast.com/)
 * [NHN TOAST UI](https://ui.toast.com/weekly-pick/ko)
 * [SK 그룹](https://devocean.sk.com)
+* [SOCAR](https://tech.socarcorp.kr)
+* [velog](https://velog.io)
+* [WATCHA](https://medium.com/watcha)
