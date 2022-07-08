@@ -2,9 +2,9 @@
 
 ## 국내, 국외 개발 블로그 모음
 
-* [어썸데브블로그](https://github.com/sarojaba/awesome-devblog)
+* [어썸데브블로그](https://github.com/awesome-devblog/awesome-devblog)
 * [기업들의 기술 블로그](tech_blogs.md)
-* [이노베이션아카데미 학생들의 학습/기술 블로그](blogs/innoaca_blogs.md)
+* [이노베이션아카데미 학생들의 학습/기술 블로그](innoaca_blogs.md)
 
 ## 개발자 블로그 메일링 리스트 (가입)
 
@@ -43,6 +43,7 @@
 | https://blog.naver.com/iyooha                   | #game                                                        |
 | https://blog.naver.com/nackji80                 |                                                              |
 | https://blog.naver.com/occidere                 |                                                              |
+| https://blog.naver.com/pjt3591oo                |                                                              |
 | https://bob-full.tistory.com/                   |                                                              |
 | https://brunch.co.kr/@alden                     |                                                              |
 | https://brunch.co.kr/@chris-song                |                                                              |
