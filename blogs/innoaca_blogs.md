@@ -42,6 +42,7 @@
 | 	https://epicarts.tistory.com/	         | 	[	epicarts	](https://github.com/epicarts)	                 | 		            |
 | 	https://yunslee-42seoul.tistory.com/	  | 	[	exgs	](https://github.com/exgs)	                         | 		            |
 | 	https://velog.io/@mkitigy/	            | 	[	GwangYeol-Im	](https://github.com/GwangYeol-Im)	         | 		            |
+| 	https://gwpaeng.tistory.com/	          | 	[	gwpaeng ](https://gwpaeng.tistory.com/)	                   | 재미있는 블로그 |
 | 	https://velog.io/@hekang	              | 	[	hekang42	](https://github.com/hekang42)	                 | 		            |
 | 	https://velog.io/@hidaehyunlee	        | 	[	hidaehyunlee	](https://github.com/hidaehyunlee)	         | 	삽질의 기록들	     |
 | 	https://egas.tistory.com/	             | 	[	hochan222	](https://github.com/hochan222)	               | 		            |
@@ -53,6 +54,7 @@
 |   https://techdebt.tistory.com/           | [JeonYoungHo-youjeon](https://github.com/JeonYoungHo-youjeon)|                |
 | 	https://onwah.tistory.com/	            | 	[	jho2301	](https://github.com/jho2301)	                   | 		            |
 | 	https://forhjy.medium.com/	            | 	[	jiyoon1156	](https://github.com/jiyoon1156)	             | 		            |
+| 	https://sungjpar.notion.site/	            | 	[	JuneParkCode	](https://github.com/JuneParkCode)	  |개발자가 되어가는 길       |
 | 	https://velog.io/@jaranda	             | 	[	ksks723	](https://github.com/ksks723)	                   | 		            |
 | 	https://blog.naver.com/ksm_ani	        | 	[	ksmani0	](https://gitlab.com/ksmani0)	                   | 		            |
 | 	https://kunhee.kim/	                   | 	[	ku-kim	](https://github.com/ku-kim)	                     | 		            |
@@ -79,7 +81,6 @@
 | 	https://yeslee-v.medium.com/	          | 	[	yeslee-v	](https://github.com/yeslee-v)	                 | 		            |
 | 	https://velog.io/@yujo	                | 	[	YUJO42	](https://github.com/YUJO42)	                     | 		            |
 | 	https://urakasumi.tistory.com/	        | 	[		] (https://github.com/Soksurim)	                        | 		            |
-| 	https://gwpaeng.tistory.com/	          | 	[		] (https://gwpaeng.tistory.com/)	                       | 		            |
 | 	https://caputdraconis.tistory.com/	    | 	[		]	(https://caputdraconis.tistory.com/)	                 | 		            |
 | 	https://codinggorani.tistory.com	      | 	[		]	(https://codinggorani.tistory.com)	                   | 		            |
 | 	https://ai-hong.tistory.com	           | 	[		]	(https://ai-hong.tistory.com)	                        | 		            |
