@@ -92,6 +92,7 @@
 | https://lovemewithoutall.github.io              |                                                              |
 | https://lsjsj92.tistory.com                     |                                                              |
 | http://mearie.org/                              |                                                              |
+| https://medium.com/@bubble.kim                  |                                                              |
 | https://medium.com/@dan_kim                     |                                                              |
 | https://medium.com/@hkc7180                     |                                                              |
 | https://medium.com/@sryu99                      |                                                              |
@@ -109,6 +110,7 @@
 | https://paiai.tistory.com/category              | #Python, #Java, #빅데이터, #알고리즘, #PHP,  #DB, #머신러닝, #IDE, #AWS,  #Node.js, #Kaggle, #Tensorflow |
 | https://popit.kr                                |                                                              |                                     
 | https://sanghaklee.tistory.com                  |                                                              |
+| https://singularis7.tistory.com/                |                                                              |
 | https://taegon.kim                              |                                                              | 
 | https://taylor-kang.github.io/                  |                                                              |
 | https://tech.ssut.me/                           |                                                              |
